@@ -1,1 +1,1 @@
-# DayOfWeek
+# DayOfTheWeek
